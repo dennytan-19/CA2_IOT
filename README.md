@@ -56,17 +56,18 @@ Here are the hardware needed and what they are used for.
 #### DHTT sensor
 a) This DHT11 Temperature and Humidity Sensor features a calibrated digital signal output with the temperature and humidity sensor capability. This sensor includes a resistive element and a sensor for wet NTC temperature measuring devices. In this project, DHTT sensor 
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/DHT11.jpg "DHT11")
+<img src="https://github.com/dennytan-19/CA2_IOT/blob/master/GitHub%20Images/IMG_20190817_210132%20(2).jpg" width="350"/>
 
 #### Light Dependant Resistor (LDR)
 b)The resistance of a photoresistor decreases with increasing incident light intensity, in other words, it detects the amount of light value. In this project, the LDR plays a part in detecting the current light values.
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/LDR.png "DHT11")
+<img src="https://github.com/dennytan-19/CA2_IOT/blob/master/GitHub%20Images/IMG_20190817_204535%20(2).jpg" width="350"/>
 
 #### MCP3008 ADC
 c) With MCP3008 you can read quite a few analog signals from the Pi.  This chip is a great option if you just need to read simple analog signals, like from a temperature or light sensor. This part plays a big role in reading values taken from the LDR/sensors.
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/MCP3008.jpg "Optional Title")
+<img src="https://github.com/dennytan-19/CA2_IOT/blob/master/GitHub%20Images/IMG_20190817_203707%20(2).jpg" width="350"/>
+
 
 #### Resistor (6 x 330 Ω Resistors, 3 x 10K Ω Resistor)
 d)Resistor helps to ensure the flow tothe rasp berry pi is smooth and not be damaged.
@@ -76,7 +77,7 @@ d)Resistor helps to ensure the flow tothe rasp berry pi is smooth and not be dam
 #### Arduino
 e) Arduino boards are actually micro-controllers rather than 'full' computers. Arduino lacks a full operating system but can run written code that is interpreted by its firmware. It is much flexible than the normal raspberry pi and can execute codes directly without no OS overhead.
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/Arduino.jpg "Optional Title")
+<img src="https://github.com/dennytan-19/CA2_IOT/blob/master/GitHub%20Images/IMG_20190817_215119%20(2).jpg" width="350"/>
 
 
 
@@ -89,7 +90,7 @@ In this section, we will connect the neccessary parts displayed in section 2.
 
 
 ### Section 4 Create a "Thing"
-
+  1
 #### Setting Up Your "Thing"
 a) First, navigate to Iot Core
 
