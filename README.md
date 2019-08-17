@@ -1,15 +1,15 @@
-# CA2_IOT
+**ST0324 Internet of Things CA2 Step-by-step Tutorial**
 
-ST0324 Internet of Things CA2 Step-by-step Tutorial
+##### SCHOOL OF DIGITAL MEDIA AND INFOCOMM TECHNOLOGY (DMIT)
 
-IOT CA2 Gardening Water Dispenser.
+# IOT CA2 Gardening Water Dispenser
 
-Step By Step Tutorial
+# Step-by-step Tutorial
 
 ST 0324 Internet of Things (IOT)
 
 ```
-Table of Contents
+## Table of Contents
 * Section 1 Overview of Gardening Water Dispenser
 * Section 2 Hardware requirements
 * Section 3 Hardware setup
