@@ -66,7 +66,8 @@ b)The resistance of a photoresistor decreases with increasing incident light int
 #### MCP3008 ADC
 c) With MCP3008 you can read quite a few analog signals from the Pi.  This chip is a great option if you just need to read simple analog signals, like from a temperature or light sensor. This part plays a big role in reading values taken from the LDR/sensors.
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/MCP3008.png "Optional Title")
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/MCP3008.jpg "Optional Title")
+
 #### Resistor (6 x 330 Ω Resistors, 3 x 10K Ω Resistor)
 d)Resistor helps to ensure the flow tothe rasp berry pi is smooth and not be damaged.
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
