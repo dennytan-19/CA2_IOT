@@ -51,11 +51,13 @@ Overview of the system
 
 Here are the hardware needed and what they are used for.
 
+
+
 # DHTT sensor
 a) This DHT11 Temperature and Humidity Sensor features a calibrated digital signal output with the temperature and humidity sensor capability. This sensor includes a resistive element and a sensor for wet NTC temperature measuring devices.
-
+<p align="center">
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/DHT11.jpg "DHT11")
-
+</p>
 b) Light Dependant Resistor (LDR)
 
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/LDR.png "DHT11")
