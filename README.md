@@ -54,7 +54,3 @@ Here are the hardware needed and what they are used for.
 a) DHTT sensor
 
 
-
-
-
-
