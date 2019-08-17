@@ -53,4 +53,4 @@ Here are the hardware needed and what they are used for.
 
 a) DHTT sensor
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/Git Hub images/DHT11.jpg "DHT11")
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub Images/DHT11.jpg "DHT11")
