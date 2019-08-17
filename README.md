@@ -68,5 +68,39 @@ c) With MCP3008 you can read quite a few analog signals from the Pi.  This chip 
 
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/MCP3008.png "Optional Title")
 #### Resistor (6 x 330 Ω Resistors, 3 x 10K Ω Resistor)
-d)
+d)Resistor helps to ensure the flow tothe rasp berry pi is smooth and not be damaged.
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
+
+
+
+### Section 3 Hardware Setup
+
+In this section, we will connect the neccessary parts displayed in section 2.
+
+## Frizing Diagram
+
+
+
+### Section 4 Create a "Thing"
+
+#### Setting Up Your "Thing"
+a) First, navigate to Iot Core
+
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
+
+
+b) Under manage, select things and choose register a thing.
+
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
+
+c) Choose Create a single thing.
+
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
+
+d) Enter a name for your project thing. Click next.
+
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
+
+e) Click create certificate. Download all four files. As for the root CA, download the VeriSign Class 3 Public Primary G5 root CA certificate file.
+
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
