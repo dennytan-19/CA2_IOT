@@ -45,9 +45,9 @@ Overview of the system
 # C. How the web application looks like?
 
 
-# Section 2 Hardware requirements 
+## Section 2 Hardware requirements 
 
-# Hardware checklist
+### Hardware checklist
 
 Here are the hardware needed and what they are used for.
 
