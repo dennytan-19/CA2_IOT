@@ -25,10 +25,10 @@ ST 0324 Internet of Things (IOT)
 ```
 Section 1 Overview of Gardening Water Dispenser
 
-# A. What is Gardening Water Dispenser about?
+## A. What is Gardening Water Dispenser about?
 The garden automatic watering tool, it activates whenever the soil moisture goes below the specific value and captures a picture at the same time prior to the environment.  Garden watering tool is for those who are keen on saving money and time. It is designed to ease the burdens of watering plants on a daily basis,  adjustment of the dripping volume at a given time which means the plants won’t be taking in insufficiently or excessively.
 
-# B. How the final RPI set-up looks like
+## B. How the final RPI set-up looks like
 ```
 Final Set-up
 ```
@@ -45,9 +45,9 @@ Overview of the system
 # C. How the web application looks like?
 
 
-## Section 2 Hardware requirements 
+### Section 2 Hardware requirements 
 
-### Hardware checklist
+#### Hardware checklist
 
 Here are the hardware needed and what they are used for.
 
