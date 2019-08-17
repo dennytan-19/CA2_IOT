@@ -73,6 +73,10 @@ d)Resistor helps to ensure the flow tothe rasp berry pi is smooth and not be dam
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/resistor.png "Optional Title")
 
 
+#### Arduino
+e)
+
+
 
 ### Section 3 Hardware Setup
 
