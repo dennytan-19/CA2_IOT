@@ -58,4 +58,4 @@ a) This DHT11 Temperature and Humidity Sensor features a calibrated digital sign
 
 b) Light Dependant Resistor (LDR)
 
-![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/DHT11.jpg "DHT11")
+![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/LDR.png "DHT11")
