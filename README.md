@@ -23,7 +23,7 @@ ST 0324 Internet of Things (IOT)
 * Section 11 References
 
 ```
-Section 1 Overview of Gardening Water Dispenser
+### Section 1 Overview of Gardening Water Dispenser
 
 ## A. What is Gardening Water Dispenser about?
 The garden automatic watering tool, it activates whenever the soil moisture goes below the specific value,captures a picture at the same time prior to the environment, takes in light values as well as the temperature values around the plant, monitoring the plant as tight as possible, to ensure its survival.  Garden watering tool is for those who are keen on saving money and time. It is designed to ease the burdens of watering plants on a daily basis,  adjustment of the dripping volume at a given time which means the plants won’t be taking in insufficiently or excessively.
@@ -74,7 +74,8 @@ d)Resistor helps to ensure the flow tothe rasp berry pi is smooth and not be dam
 
 
 #### Arduino
-e)
+e) Arduino boards are actually micro-controllers rather than 'full' computers. Arduino lacks a full operating system but can run written code that is interpreted by its firmware. It is much flexible than the normal raspberry pi and can execute codes directly without no OS overhead.
+
 ![Alt text](https://github.com/999sky999/CA2_IOT/blob/master/GitHub%20Images/Arduino.jpg "Optional Title")
 
 
