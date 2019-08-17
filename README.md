@@ -42,7 +42,7 @@ Final Set-up
 Overview of the system
 ```
 
-# C. How the application looks like?
+# C. How the web application looks like?
 
 
 # Section 2 Hardware requirements 
